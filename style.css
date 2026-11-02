@@ -1,0 +1,16 @@
+/*
+Theme Name:   AudioShelf – GeneratePress Child
+Theme URI:    https://example.com/audioshelf
+Description:  A blank-slate GeneratePress child theme that turns WordPress into an audiobook library: three-column browsing, an audiobook post type with age/language/category taxonomies, and a catalog page with search, filters, sorting and a 4-per-row tile grid.
+Author:       AudioShelf
+Template:     generatepress
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  audioshelf
+*/
+
+/*
+ * All custom styling lives in assets/css/audioshelf.css so this file stays a
+ * clean child-theme manifest. Add your own one-off tweaks below if you like.
+ */
